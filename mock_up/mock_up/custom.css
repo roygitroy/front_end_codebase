@@ -1,0 +1,131 @@
+.bg-green {
+    background-color: #384d48;
+    padding: 8px;
+}
+
+.social-icon {
+    margin-top: 5px;
+}
+
+.social-icon li {
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}
+
+.social-icon li a i {
+    color: #fff;
+}
+
+.mail-bar li {
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}
+
+.mail-customize {
+    color: #fff;
+    text-decoration: none;
+}
+
+.mail-customize:hover {
+    color: brown;
+}
+
+.envcolor {
+    color: rgb(212 241 151);
+}
+
+.discontent {
+    display: contents;
+    /* white-space: nowrap; */
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
+    /* width: 199px; */
+}
+
+.second-li-timer {
+    text-overflow: ellipsis;
+    width: 183px;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #fff;
+}
+
+.timer-color {
+    color: rgb(212 241 151);
+}
+
+.bod-right-bar {
+    border-right: 1px solid #fff;
+    padding-right: 10px;
+}
+
+.customized-button,
+.customized-button:hover {
+    background-color: #ffd04c;
+    color: #000;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
+.mar-top-15 {
+    margin-top: 15px;
+}
+
+.bod-bottom-bar1 {
+    border-bottom: 1px solid #dcdada;
+}
+
+#abhisekModal .modal-content {
+    background-color: #e2e2e2;
+}
+
+.cursporPoint {
+    cursor: pointer;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.posabs {
+    position: relative;
+}
+
+.heading_bar_part {
+    width: 344px;
+    height: 300px;
+    position: absolute;
+    left: 199px;
+    top: 100px;
+}
+.heading_bar_part h1{
+    color: #364e44;
+}
+.bg_green{
+    background-color: #96c830;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 40%;
+}
+.bg_green i{
+    font-size: 30px;
+    margin-top:40px;
+    color: #fff;
+}
+.width_bar_300{
+    width:300px;
+}
+.pad-20-container{
+    padding: 20px;
+}
+.bod_right_bar{
+    border-right:2px solid #ddd;
+}
+.bod_bottom_bar{
+    border-bottom:2px solid #ddd;
+}
