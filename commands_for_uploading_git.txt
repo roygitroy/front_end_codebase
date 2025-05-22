@@ -1,0 +1,17 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/roygitroy/private_repo.git
+git push -u origin main
+
+
+if first time i want to clone the git folders then following steps we have to follow.
+
+git clone https://github.com/roygitroy/front_end_codebase.git
+git add . ( all files added )
+git add <file_name> ( files will be updated one by one)
+git status ( if green color showing then status of the file updated & if red color showing then status of file initiated but not updated)
+git commit -m "add your comment" ( to reflect the changes in the staging)
+git pull ( if any changes in the server but not system then use git pull) (server -> Local Machine)
+git push ( local machine -> server)
