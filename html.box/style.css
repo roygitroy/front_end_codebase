@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(208, 204, 200);
+    /* font-style: italic; */
+}
+
+
+h1{
+    color: aqua;
+    background-color: rgba(98, 116, 21, 0.8);
+}
+
+.heading{
+    background-color: rgba(151, 132, 39, 0.702);
+    padding: 40px;
+    /* margin: 100px; */
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    border: 5px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    text-decoration: underline;
+
+
+
+    /* padding-top: 40px;
+    padding-left: 20px; */
+}
+
+
+#para{
+    background-color: rgb(23, 23, 8);
+}
+
+#id1{
+    background-color: blue;
+}
+
+#id2{
+    background-color: blue;
+}
+
+.list{
+    background-color: blueviolet;
+}
+.image_1{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.posabs{
+    color: aquamarine;
+    height: 100px;;
+    contain-intrinsic-block-size:100px;
+    container: type 200px;;
+    border:5px solid black;
+}
+.wrapper ul li, .wrapper ol li{
+    list-style: none;
+}
+.wrapper ul li{
+    width: 100%;
+    margin-bottom: 10px;
+   /*ist-style-image: url(/img/chess_1.png);*/
+}
+.wrapper ul li::before{
+    /*content: "before li";*/
+}
+.img-prop{
+    float: left;
+    margin-right: 10px;
+}
+.text-float{
+}
+

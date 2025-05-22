@@ -1,0 +1,16 @@
+.left{
+    float: left;
+}
+.martop18{
+    margin-top: 20px;
+}
+.accBorder{
+    border:1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.accordian-button{
+    width: 100%;
+    background: #65b1ff;
+    font-size: 20px;
+}

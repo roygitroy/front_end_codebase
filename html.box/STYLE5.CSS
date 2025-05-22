@@ -1,0 +1,71 @@
+.name{
+    color: blue;
+    animation: reverse;
+}
+.container{
+    margin: 0 auto;
+    width: 400px;
+}
+.leftalign{
+    float: left;
+    margin-right: 5px;
+}
+.rightalign{
+    float: right;
+}
+.box{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+    border: 2px solid black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    border: 2pxsolid black;
+    margin:10px;
+    padding: 20px;
+    position: relative;
+
+
+    transition: all;
+    transition-duration: 5s;
+    transition-delay: 2s;
+    
+
+}
+
+
+
+
+.child:hover{
+    width: 1200px;
+    height: 300px;
+    transform:perspective(360deg)
+
+}
+.container{height: 100vh;
+    width: 100vh;
+    background-color: blueviolet;
+    display: grid;
+    grid-row: 1fr 1fr 2fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.bg{
+    height: 200px;
+    width: 300;
+    background-color: brown;
+    display: grid;
+    padding: 10px;
+    margin:20px;
+    border:2px solid #000;
+    grid-template-columns: 100px 210px auto;
+    grid-template-rows: 50px 100px;
+}
