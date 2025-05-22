@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+}
+
+.bg-handler {
+  float: left;
+  margin-bottom: 0px;
+  width: 103%;
+}
+
+.posrelative {
+  position: relative;
+}
+
+.posabs {
+  position: absolute;
+}
+
+.controller {
+  left: 20px;
+  top: 20px;
+}
+
+.width74 {
+  width: 74px;
+}
+
+/*# sourceMappingURL=common.css.map */

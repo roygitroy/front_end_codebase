@@ -1,0 +1,101 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.padall {
+    padding: 10px 10px 100px 10px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.marginbottom {
+    margin-bottom: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.colorwhite {
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.middle {
+    display: block;
+    height: 100%;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.blackbg {
+    background-color: black;
+}
+
+.whitebg {
+    background-color: white;
+}
+
+.room {
+    width: 8%;
+    height: 105px;
+    float: left;
+    border-bottom: 1px solid #8b8686;
+    border-right: 1px solid #8b8686;
+
+}
+
+.container-middle {
+    width: 98%;
+    margin: 10 auto;
+    background-color: #9f9326;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.bg-handler {
+    float: left;
+    margin-bottom: 0px;
+    width: 103%;
+}
+
+.posrelative {
+    position: relative;
+}
+
+.posabs {
+    position: absolute;
+}
+
+.controller {
+    left: 20px;
+    top: 20px;
+}
+
+.width74 {
+    width: 74px;
+}
