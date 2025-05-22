@@ -1,0 +1,176 @@
+.mybg {
+    background-color: #394c48;
+}
+
+.mar-top-15 {
+    margin-top: 14px;
+}
+
+.mg-social li {
+    list-style: none;
+    float: left;
+    margin-right: 22px;
+}
+
+.mg-social li i {
+    color: #fff;
+}
+
+.mail-bar li {
+    float: left;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.mail-bar li a,
+.mail-bar li i {
+    text-decoration: none;
+    color: #fff;
+}
+
+.discontent {
+    display: contents;
+    /* white-space: nowrap; */
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
+    /* width: 199px; */
+}
+
+.second-li-timer {
+    text-overflow: ellipsis;
+    width: 183px;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #fff;
+}
+
+.maar-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.border-right-customization {
+    border-right: 1px solid white;
+    padding-right: 11px;
+}
+
+.mar-5-logo {
+    margin-left: 10px;
+}
+
+.customized-button,
+.customized-button:hover {
+    background-color: #ffd04c;
+    color: #000;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
+.nav-customization li {
+    margin-right: 10px;
+}
+
+.border-bottom-bar {
+    border-bottom: 1px solid #f0dede;
+}
+
+.bg-set-bar {
+    width: 100%;
+    position: relative;
+}
+
+.pos-rel {
+    position: relative;
+}
+.top-heading-mas{
+    margin: 0 auto;
+    width: 347px;
+    margin-top: 10px;
+    color: #314a46;
+}
+.fa-leaf-color{
+    color: #c2e5a4;
+}
+
+.heading-mas {
+    margin: 0 auto;
+    width: 347px;
+    margin-top: 15px;
+    color: #314a46;
+    font-weight: bold;
+    font-size: 35px;
+}
+.para-mas{
+    margin: 0 auto;
+    width: 347px;
+    margin-top: 15px;
+    color: #161817;
+    font-size: 15px;
+}
+.btn-mas{
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-left: 45px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.content-bar {
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 185px;
+    z-index: 3;
+}
+
+.pos-overlay {
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    background: #fff;
+    left: 185px;
+    z-index: 2;
+    filter: blur(8px);
+    -webkit-filter: blur(20px);
+}
+.fa-leaf-white{
+    background-color:#99cc2c;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px!important;
+    float: left;
+    border-radius: 50px;
+}
+.pad-10{
+    padding: 10px;
+}
+.font-col-custom{
+    color: #3b3c40;
+    font-size: 20px;
+}
+.mar-left-5{
+    margin-left: 15px;
+}
+.new-cus-width{
+    width:200px;
+}
+.mar-top-10{
+    margin-top: 10px;
+}
+.rahul-container .fa-check::before{
+    background-color: #fff;
+    color: #99cc2c;
+    border-radius: 50px;
+    font-size: 40px;
+    padding: 3px;
+}
+.bod-bottom-10{
+    border-bottom: 1px solid #ddd;
+}
+.bod-right{
+    border-right: 1px solid #d1cdcd;
+}
